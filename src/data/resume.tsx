@@ -4,9 +4,9 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Benito Tridella Dolce",
   initials: "BTD",
-  url: "https://dillion.io",
+  url: "https://portfolio-pi-six-69.vercel.app/",
   location: "Rosario, SF",
-  locationLink: "https://www.google.com/maps/place/sanfrancisco",
+  locationLink: "https://www.google.com/maps/place/rosario",
   description:
     "Desarrollador Frontend  enfocado  en crear interfaces modernas y eficientes, aprovechando mis conocimientos y mejores prácticas.",
   summary:
