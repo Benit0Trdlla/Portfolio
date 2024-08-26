@@ -44,8 +44,8 @@ export default function Navbar() {
               <Tooltip>
                 <TooltipTrigger asChild>
                   <Link
-                    href={social.url}
-                    target="_blank"
+                    href={social.url === "benitotridelladolce@gmail.com" ? "mailto:" + social.url : social.url}
+                    target={social.url === "benitotridelladolce@gmail.com" ? "_self" : "_blank"}
                     className={cn(
                       buttonVariants({ variant: "ghost", size: "icon" }),
                       "size-12"
