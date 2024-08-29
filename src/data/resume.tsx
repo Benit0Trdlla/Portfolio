@@ -89,12 +89,38 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Clon Web AFIP",
+      href: "https://clon-afip.vercel.app/",
+      dates: "Agosto 2024 - Agosto 2024",
+      active: true,
+      description:
+        "Este proyecto consistió en clonar la página web de la AFIP, la institución tributaria de Argentina, con el objetivo de mejorar mis habilidades como desarrollador frontend. Durante su desarrollo, me enfoqué en practicar y perfeccionar el uso de herramientas clave como React y Bootstrap, asegurando que el diseño y la funcionalidad fueran lo más fieles posibles al sitio original.",
+      technologies: [
+        "React",
+        "CSS",
+        "Bootstrap",
+        "Vite",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://clon-afip.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Benit0Trdlla/Clon-AFIP",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+    },
+    {
       title: "Perfil de Usuario",
       href: "https://todo-teal-two.vercel.app/",
       dates: "Julio 2024 - Julio 2024",
       active: true,
       description:
-        "Breve proyecto para poder practicar Maquetación Web y CSS Modules.",
+        "Como siempre intento mejorar como Desarrollador Web y siendo un comprometido con el aprendizaje continuo para lograr objetivos personales y ofrecer resultados significativos pense un breve proyecto para poder practicar Maquetación Web y CSS Modules.",
       technologies: [
         "CSS Modules",
         "Next.js",
@@ -113,7 +139,6 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-
     },
     {
       title: "ToDo",
