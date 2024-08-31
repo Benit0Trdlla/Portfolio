@@ -70,7 +70,7 @@ export const DATA = {
       href: "https://www.laboratorioconsultar.com/img/Logo-Laboratorio.png",
       location: "Presencial",
       title: "Desarrollador Fullstack",
-      logoUrl: "https://scontent.fros2-2.fna.fbcdn.net/v/t39.30808-1/299993755_497814015678053_5107267870563397641_n.png?stp=dst-png_s200x200&_nc_cat=111&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=4pr5RPUVoMIQ7kNvgHhTHDL&_nc_ht=scontent.fros2-2.fna&oh=00_AYAr_jZ6uhZAWpxOXWD0c-s7s_iySy2XClDxjwZSzc_FUA&oe=66CD60A7",
+      logoUrl: "https://www.laboratorioconsultar.com/img/favicon.ico",
       start: "Mayo 2023",
       end: "Julio 2023",
       description:
