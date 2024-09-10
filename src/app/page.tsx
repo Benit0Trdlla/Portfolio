@@ -66,9 +66,14 @@ export default function Page() {
                 subtitle={work.title}
                 href={work.href}
                 period={`${work.start} - ${work.end ?? "Present"}`}
-                description={work.description}
+                description={work.description.split('\n').map((line, index) => (
+                  <span key={index}>
+                    {line}
+                    <br />
+                  </span>
+                ))}
                 badges={work.badges}
-                />
+              />
             </BlurFade>
           ))}
         </div>

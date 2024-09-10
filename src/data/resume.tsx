@@ -8,7 +8,7 @@ export const DATA = {
   location: "Rosario, SF",
   locationLink: "https://www.google.com/maps/place/rosario",
   description:
-    "Desarrollador Frontend  enfocado  en crear interfaces modernas y eficientes, aprovechando mis conocimientos y mejores prácticas.",
+    "Desarrollador Frontend enfocado en crear interfaces modernas y eficientes, aprovechando mis conocimientos y mejores prácticas.",
   summary:
     "Soy un Desarrollador Frontend especializado en HTML, CSS, Bootstrap, JavaScript, React, y Next.js. Tengo experiencia trabajando con APIs RESTful y utilizando GitHub para el control de versiones. Fortalezco mis habilidades a través del aprendizaje activo y la adaptación continua. Soy una persona versátil, comprometida con el uso de tecnologías modernas y abierto a nuevos desafíos.",
   avatarUrl: "/me.png",
@@ -50,7 +50,6 @@ export const DATA = {
       },
     },
   },
-
   work: [
     {
       company: "Caribe Enseña",
@@ -61,8 +60,7 @@ export const DATA = {
       logoUrl: "https://caribeensena.org/media/ea95eb4d8a32e4352ed2403a067facf8.png",
       start: "Marzo 2024",
       end: "Actualidad",
-      description:
-        "Desarrollo de una aplicación web progresiva (PWA) para facilitar la preparación de las pruebas Saber 11 del ICFES, enfocada en estudiantes de áreas rurales y entornos socioeconómicamente desfavorecidos. Además partícipe en el diseño de la experiencia de usuario (UX) y la interfaz (UI). Tecnologías utilizadas: Next.js, React, Bootstrap, CSS, HTML, JavaScript.",
+      description: "Desde junio de 2024, desarrollo el proyecto 'Caribe Enseña Learning', una plataforma e-learning que ofrece cursos, talleres y diplomados enfocados en las necesidades educativas de la región. Accesible desde dispositivos móviles y computadoras, facilitando el acceso en cualquier momento y lugar. Con esta herramienta, potenciamos el aprendizaje en entornos formales y no formales.\n\nEntre marzo y junio de 2024, desarrollé una aplicación web progresiva (PWA) ‘Proyecto Genius’ para facilitar la preparación de las pruebas Saber 11 del ICFES, enfocada en estudiantes de áreas rurales y entornos socioeconómicamente desfavorecidos. Además, tuve participación en el diseño de la experiencia de usuario (UX) y la interfaz (UI).\n\nTecnologías utilizadas en ambos proyectos: Next.js, React, Bootstrap, CSS, HTML, JavaScript."
     },
     {
       company: "Laboratorio Consultar SRL",
@@ -74,7 +72,7 @@ export const DATA = {
       start: "Mayo 2023",
       end: "Julio 2023",
       description:
-      "Desarrollé dos proyectos como pasante Fullstack: una aplicación en Python que trasladaba informes a Excel y el primer chatbot técnico con IA de la empresa. Con la posiblidad de poder agendar reuniones. Se desarrolló con OpenAI, LangChain, y una base de conocimientos de informes técnicos propios. Tecnologías: Python, Flask, LangChain, ChromaDB, HTML, CSS, JavaScript.",
+        "Desarrollé dos proyectos como pasante Fullstack: una aplicación en Python que trasladaba informes a Excel y el primer chatbot técnico con IA de la empresa. Con la posiblidad de poder agendar reuniones. Se desarrolló con OpenAI, LangChain, y una base de conocimientos de informes técnicos propios.\n\nTecnologías: Python, Flask, LangChain, ChromaDB, HTML, CSS, JavaScript.",
     },
   ],
   education: [
@@ -88,6 +86,32 @@ export const DATA = {
     }
   ],
   projects: [
+    {
+      title: "Mi Versión de Linktree",
+      href: "https://my-linktree-pink.vercel.app/",
+      dates: "Septiembre 2024 - Septiembre 2024",
+      active: true,
+      description:
+        "He diseñado y desarrollado mi propia alternativa a Linktree, centrándome en crear una plataforma sencilla y eficaz para gestionar múltiples enlaces desde una única página. El proyecto incluye funciones personalizables que permiten a los usuarios organizar y compartir sus enlaces de forma clara y atractiva.",
+      technologies: [
+        "React",
+        "CSS",
+        "Ui Verse",
+        "Vite",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://my-linktree-pink.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Benit0Trdlla/My-Linktree",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+    },
     {
       title: "Clon Web AFIP",
       href: "https://clon-afip.vercel.app/",
