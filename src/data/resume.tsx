@@ -2,7 +2,7 @@ import { Icons } from "@/components/icons";
 import { HomeIcon, NotebookIcon } from "lucide-react";
 
 export const DATA = {
-  name: "Benito Tridella Dolce",
+  name: "Benito Tridella Dolce - Portfolio",
   initials: "BTD",
   url: "https://portfolio-pi-six-69.vercel.app/",
   location: "Rosario, SF",
