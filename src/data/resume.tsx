@@ -87,12 +87,38 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Genera y Gestiona Tus Contraseñas",
+      href: "https://genera-y-gestiona-tus-contrasenas-gray.vercel.app/",
+      dates: "Septiembre 2024 - Septiembre 2024",
+      active: true,
+      description:
+        "Genera y gestiona tus contraseñas de forma segura. Puedes crearlas automáticamente o personalizarlas con una palabra específica, con longitudes entre 8 y 16 caracteres. Guarda, copia, utiliza y elimina contraseñas fácilmente con una interfaz intuitiva.",
+      technologies: [
+        "React",
+        "CSS",
+        "Ui Verse",
+        "Vite",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://genera-y-gestiona-tus-contrasenas-gray.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Benit0Trdlla/Passwords",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+    },
+    {
       title: "Mi Versión de Linktree",
       href: "https://my-linktree-pink.vercel.app/",
       dates: "Septiembre 2024 - Septiembre 2024",
       active: true,
       description:
-        "He diseñado y desarrollado mi propia alternativa a Linktree, centrándome en crear una plataforma sencilla y eficaz para gestionar múltiples enlaces desde una única página. El proyecto incluye funciones personalizables que permiten a los usuarios organizar y compartir sus enlaces de forma clara y atractiva.",
+        "Desarrollé mi propia alternativa a Linktree, centrándome en crear una plataforma sencilla y eficaz para gestionar múltiples enlaces. El proyecto incluye funciones personalizables que permiten a los usuarios organizar y compartir sus enlaces de forma clara y atractiva.",
       technologies: [
         "React",
         "CSS",
@@ -118,7 +144,7 @@ export const DATA = {
       dates: "Agosto 2024 - Agosto 2024",
       active: true,
       description:
-        "Este proyecto consistió en clonar la página web de la AFIP, la institución tributaria de Argentina, con el objetivo de mejorar mis habilidades como desarrollador frontend. Durante su desarrollo, me enfoqué en practicar y perfeccionar el uso de herramientas clave como React y Bootstrap, asegurando que el diseño y la funcionalidad fueran lo más fieles posibles al sitio original.",
+        "Este proyecto consistió en clonar el sitio web de la AFIP, la institución tributaria de Argentina, con el objetivo de practicar y mejorar mis habilidades en React, React Router y Bootstrap. Me aseguré de que tanto el diseño como las funcionalidades fueran lo más fieles posibles al sitio original.",
       technologies: [
         "React",
         "React Router",
@@ -145,7 +171,7 @@ export const DATA = {
       dates: "Julio 2024 - Julio 2024",
       active: true,
       description:
-        "Como siempre intento mejorar como Desarrollador Web y siendo un comprometido con el aprendizaje continuo para lograr objetivos personales y ofrecer resultados significativos pense un breve proyecto para poder practicar Maquetación Web y CSS Modules.",
+        "Proyecto enfocado en la práctica y mejora de habilidades en maquetación web y el uso de CSS Modules. El objetivo principal fue crear una estructura bien organizada y responsive, asegurando que cada componente mantuviera un estilo encapsulado y fácil de mantener.",
       technologies: [
         "CSS Modules",
         "Next.js",
@@ -171,7 +197,7 @@ export const DATA = {
       dates: "Febrero 2024 - Febrero 2024",
       active: true,
       description:
-        "He diseñado y desarrollado una aplicación destinada a la gestión y almacenamiento de tareas pendientes. Esta herramienta proporciona una organización efectiva y establece objetivos claros para avanzar de manera eficiente en el desarrollo de proyectos.",
+        "Aplicación destinada a la gestión y almacenamiento de tareas pendientes. Esta herramienta proporciona una organización efectiva y establece objetivos claros para avanzar de manera eficiente en el desarrollo y gestión de proyectos.",
       technologies: [
         "HTML",
         "CSS",
@@ -200,7 +226,7 @@ export const DATA = {
       dates: "Febrero 2023 - Febrero 2024",
       active: true,
       description:
-        "Desarrollé una aplicación que proporciona información meteorológica detallada para la ciudad consultada. La interfaz muestra datos clave, como el nombre de la ciudad, el país, la temperatura actual y una descripción del clima vigente. Además, la aplicación está integrada con Google Maps para facilitar la ubicación geográfica.",
+        "Aplicación que proporciona información meteorológica detallada para la ciudad consultada. La interfaz muestra datos clave, como el nombre de la ciudad, el país, la temperatura actual y una descripción del clima vigente. Además, la aplicación está integrada con Google Maps para facilitar la ubicación geográfica.",
       technologies: [
         "HTML",
         "CSS",
@@ -228,7 +254,7 @@ export const DATA = {
       dates: "Enero 2024 - Enero 2024",
       active: true,
       description:
-        "Realicé este ejercicio con el propósito de prepararme para futuras entrevistas técnicas, considerando que es uno de los desafíos recurrentes en este tipo de evaluaciones. La tarea en cuestión consiste en la implementación de un sistema CRUD para la gestión de notas, que incluye funcionalidades de guardado y un filtro para facilitar la búsqueda.",
+        "Challenge diseñado para practicar tecnologías backend y el manejo de bases de datos relacionales. El desafío consistió en desarrollar un sistema CRUD para la gestión de notas, incorporando funcionalidades de almacenamiento y un filtro para facilitar la búsqueda de las notas guardadas.",
       technologies: [
         "HTML",
         "Javascript",
@@ -252,7 +278,7 @@ export const DATA = {
       dates: "Julio 2023 - Noviembre 2023",
       active: true,
       description:
-        "El ultimo proyecto realizado en mi ultimo año de secundaria en el Colegio Salesiano San José N° 2043 fue el desarrollo de un chatbot capaz de responder a diversas consultas relacionadas con la institución. Como la historia del colegio, la administración, las modalidades de carreras técnicas de seis años y datos relevantes sobre la Bienal.",
+        "En mi último año de secundaria desarrollé un chatbot para responder diversas consultas relacionadas con la institución, como la historia del colegio, su administración, las modalidades de carreras técnicas de seis años y detalles sobre la Bienal (Exposición Educativa).",
       technologies: [
         "HTML",
         "CSS",
@@ -277,7 +303,7 @@ export const DATA = {
       dates: "Agosto 2023 - Noviembre 2023",
       active: true,
       description:
-        "La plataforma presenta los episodios emitidos de un podcast e integra un sistema que permite a los usuarios gestionar su lista de favoritos pudiendo agregar y eliminar capítulos. La funcionalidad de favoritos requiere que los usuarios creen una cuenta, que incluye la opción de personalizar la imagen de perfil. ",
+        "El sitio web presenta los episodios emitidos de un podcast y ofrece a los usuarios la capacidad de gestionar una lista de favoritos, permitiendo agregar o eliminar capítulos. La funcionalidad de favoritos requiere que los usuarios creen una cuenta, que incluye la opción de personalizar la imagen de perfil.",
       technologies: [
         "HTML",
         "Javascript",
@@ -302,7 +328,7 @@ export const DATA = {
       dates: "Abril 2022 - Diciembre 2022",
       active: true,
       description:
-        "Proyecto utilizando Arduino y conectándolo a una aplicación web desarrollada mediante HTML, CSS, JavaScript y Firebase. Para mejorar la interacción, la aplicación presenta preguntas predeterminadas de manera aleatoria y exhibe los puntajes individuales de los participantes en una pantalla LCD. Este monitoreo y control de la experiencia se realiza de forma remota a través de la interfaz web asociada al proyecto.",
+        "Proyecto de Arduino integrado con una aplicación web. La aplicación presenta preguntas predeterminadas de manera aleatoria y exhibe los puntajes individuales de los participantes en una pantalla LCD 16x16.",
       technologies: [
         "HTML",
         "Javascript",
