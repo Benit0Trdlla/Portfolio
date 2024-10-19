@@ -87,6 +87,28 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Asistente Educativo - Vercel AI SDK",
+      href: "",
+      dates: "Septiembre 2024 - Octubre 2024",
+      active: true,
+      description:
+        "Asistente educativo con IA, diseñado para apoyar a estudiantes en diversas materias escolares. Responde preguntas, proporciona explicaciones claras y ofrece ejemplos personalizados. Una funcionalidad clave del asistente es la capacidad de subir imágenes para facilitar la comprensión de temas complejos.",
+      technologies: [
+        "Next.js",
+        "React",
+        "CSS",
+        "Ui Verse",
+        "Vercel",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Benit0Trdlla/Educational-Assistant",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+    },
+    {
       title: "Genera y Gestiona Tus Contraseñas",
       href: "https://genera-y-gestiona-tus-contrasenas-gray.vercel.app/",
       dates: "Septiembre 2024 - Septiembre 2024",
@@ -112,32 +134,32 @@ export const DATA = {
         },
       ],
     },
-    {
-      title: "Mi Versión de Linktree",
-      href: "https://my-linktree-pink.vercel.app/",
-      dates: "Septiembre 2024 - Septiembre 2024",
-      active: true,
-      description:
-        "Desarrollé mi propia alternativa a Linktree, centrándome en crear una plataforma sencilla y eficaz para gestionar múltiples enlaces. El proyecto incluye funciones personalizables que permiten a los usuarios organizar y compartir sus enlaces de forma clara y atractiva.",
-      technologies: [
-        "React",
-        "CSS",
-        "Ui Verse",
-        "Vite",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://my-linktree-pink.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Benit0Trdlla/My-Linktree",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-    },
+    // {
+    //   title: "Mi Versión de Linktree",
+    //   href: "https://my-linktree-pink.vercel.app/",
+    //   dates: "Septiembre 2024 - Septiembre 2024",
+    //   active: true,
+    //   description:
+    //     "Desarrollé mi propia alternativa a Linktree, centrándome en crear una plataforma sencilla y eficaz para gestionar múltiples enlaces. El proyecto incluye funciones personalizables que permiten a los usuarios organizar y compartir sus enlaces de forma clara y atractiva.",
+    //   technologies: [
+    //     "React",
+    //     "CSS",
+    //     "Ui Verse",
+    //     "Vite",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://my-linktree-pink.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Benit0Trdlla/My-Linktree",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    // },
     {
       title: "Clon Web AFIP",
       href: "https://clon-afip.vercel.app/",
@@ -165,32 +187,32 @@ export const DATA = {
         },
       ],
     },
-    {
-      title: "Perfil de Usuario",
-      href: "https://todo-teal-two.vercel.app/",
-      dates: "Julio 2024 - Julio 2024",
-      active: true,
-      description:
-        "Proyecto enfocado en la práctica y mejora de habilidades en maquetación web y el uso de CSS Modules. El objetivo principal fue crear una estructura bien organizada y responsive, asegurando que cada componente mantuviera un estilo encapsulado y fácil de mantener.",
-      technologies: [
-        "CSS Modules",
-        "Next.js",
-        "React",
-        "Vercel",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://perfil-de-usuario-two.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Benit0Trdlla/Perfil-de-Usuario",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-    },
+    // {
+    //   title: "Perfil de Usuario",
+    //   href: "https://todo-teal-two.vercel.app/",
+    //   dates: "Julio 2024 - Julio 2024",
+    //   active: true,
+    //   description:
+    //     "Proyecto enfocado en la práctica y mejora de habilidades en maquetación web y el uso de CSS Modules. El objetivo principal fue crear una estructura bien organizada y responsive, asegurando que cada componente mantuviera un estilo encapsulado y fácil de mantener.",
+    //   technologies: [
+    //     "CSS Modules",
+    //     "Next.js",
+    //     "React",
+    //     "Vercel",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://perfil-de-usuario-two.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Benit0Trdlla/Perfil-de-Usuario",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    // },
     {
       title: "ToDo",
       href: "https://todo-teal-two.vercel.app/",
@@ -248,30 +270,30 @@ export const DATA = {
         },
       ],
     },
-    {
-      title: "CRUD Challenge",
-      href: "#",
-      dates: "Enero 2024 - Enero 2024",
-      active: true,
-      description:
-        "Challenge diseñado para practicar tecnologías backend y el manejo de bases de datos relacionales. El desafío consistió en desarrollar un sistema CRUD para la gestión de notas, incorporando funcionalidades de almacenamiento y un filtro para facilitar la búsqueda de las notas guardadas.",
-      technologies: [
-        "HTML",
-        "Javascript",
-        "CSS",
-        "Node.js",
-        "Express",
-        "MySQL",
-        "Prisma",
-      ],
-      links: [
-        {
-          type: "Source",
-          href: "https://github.com/Benit0Trdlla/CRUD-Challenge",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-    },
+    // {
+    //   title: "CRUD Challenge",
+    //   href: "#",
+    //   dates: "Enero 2024 - Enero 2024",
+    //   active: true,
+    //   description:
+    //     "Challenge diseñado para practicar tecnologías backend y el manejo de bases de datos relacionales. El desafío consistió en desarrollar un sistema CRUD para la gestión de notas, incorporando funcionalidades de almacenamiento y un filtro para facilitar la búsqueda de las notas guardadas.",
+    //   technologies: [
+    //     "HTML",
+    //     "Javascript",
+    //     "CSS",
+    //     "Node.js",
+    //     "Express",
+    //     "MySQL",
+    //     "Prisma",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Benit0Trdlla/CRUD-Challenge",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    // },
     {
       title: "Chatbot del Colegio Salesiano San José N° 2043",
       href: "#",
