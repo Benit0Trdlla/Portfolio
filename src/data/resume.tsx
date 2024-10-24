@@ -8,9 +8,9 @@ export const DATA = {
   location: "Rosario, SF",
   locationLink: "https://www.google.com/maps/place/rosario",
   description:
-    "Desarrollador Frontend enfocado en crear interfaces modernas y eficientes, aprovechando mis conocimientos y mejores prácticas.",
+    "Desarrollador Frontend enfocado en crear interfaces modernas, eficientes y de alto rendimiento, utilizando mi conocimiento y mejores prácticas.",
   summary:
-    "Soy un Desarrollador Frontend especializado en HTML, CSS, Bootstrap, JavaScript, React, y Next.js. Tengo experiencia trabajando con APIs RESTful y utilizando GitHub para el control de versiones. Fortalezco mis habilidades a través del aprendizaje activo y la adaptación continua. Soy una persona versátil, comprometida con el uso de tecnologías modernas y abierto a nuevos desafíos.",
+    "Con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Bootstrap y Next.js. Competente en el desarrollo y consumo de APIs RESTful. Experiencia en el uso de Git para el control de versiones. Buscando siempre soluciones eficientes y escalables, sin temor a adaptarse a nuevos entornos o herramientas.",
   avatarUrl: "/me.png",
   skills: [
     "React",
