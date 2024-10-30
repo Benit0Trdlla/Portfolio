@@ -15,11 +15,13 @@ export const DATA = {
   skills: [
     "React",
     "Next.js",
-    "Javascript",
+    "JavaScript",
     "HTML",
     "CSS",
+    "Styled Components",
     "Bootstrap",
     "API RESTful",
+    "NPM",
     "GitHub",
   ],
   navbar: [
