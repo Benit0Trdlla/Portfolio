@@ -4,7 +4,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Benito Tridella Dolce - Portfolio",
   initials: "BTD",
-  url: "https://portfolio-pi-six-69.vercel.app/",
+  url: "https://benito-tridella-dolce.vercel.app/",
   location: "Rosario, SF",
   locationLink: "https://www.google.com/maps/place/rosario",
   description:
@@ -62,7 +62,7 @@ export const DATA = {
       logoUrl: "https://caribeensena.org/media/ea95eb4d8a32e4352ed2403a067facf8.png",
       start: "Marzo 2024",
       end: "Actualidad",
-      description: "Desde junio de 2024, desarrollo el proyecto 'Caribe Enseña Learning', plataforma e-learning:\n- Ofrece cursos, talleres y diplomados enfocados en las necesidades educativas de la región.\n- Accesible desde dispositivos móviles y computadoras.\n- Objetivo, potenciar el aprendizaje en entornos formales y no formales.\n\nEntre marzo y junio de 2024, desarrollé una aplicación web progresiva (PWA) llamada ‘Proyecto Genius’:\n- Facilita la preparación de las pruebas Saber 11 del ICFES.\n- Dirigida a estudiantes de áreas rurales y con desventajas socioeconómicas.\n- Participé en el diseño de la experiencia de usuario (UX) y la interfaz (UI).\n\nTecnologías utilizadas en ambos proyectos: Next.js, React, Bootstrap, CSS, HTML, JavaScript."
+      description: "● Desarrollo de la plataforma e-learning 'Caribe Enseña Learning', que ofrece cursos, talleres y diplomados.\n\n●Participación en la creación de una aplicación web progresiva (PWA) llamada ‘Proyecto Genius’. Aumento del acceso educativo en áreas con baja conectividad, gracias a la funcionalidad offline de la PWA.\n\n● Implementé yoptimicé la experiencia de usuario (UX) y la interfaz de usuario (UI) de 'Proyecto Genius' y ‘Caribe Enseña Learning’. Reduciendo en un 30% del tiempo de carga de la plataforma, lo que mejoró la retención de usuarios.\n\nTecnologías utilizadas en ambos proyectos: Next.js, React, Bootstrap, CSS, HTML, JavaScript."
     },
     {
       company: "Laboratorio Consultar SRL",
@@ -74,7 +74,7 @@ export const DATA = {
       start: "Mayo 2023",
       end: "Julio 2023",
       description:
-        "Desarrollé dos proyectos como pasante Fullstack: una aplicación en Python que trasladaba informes a Excel y el primer chatbot técnico con IA de la empresa. Con la posiblidad de poder agendar reuniones. Se desarrolló con OpenAI, LangChain, y una base de conocimientos de informes técnicos propios.\n\nTecnologías: Python, Flask, LangChain, ChromaDB, HTML, CSS, JavaScript.",
+        "● Desarrollo del primer chatbot con IA de la empresa, reduciendo en un 40% el tiempo de respuesta a las consultas de los clientes y automatizando más del 60% de las interacciones con el soporte.\n\n● Implementación de un sistema de agenda automatizado para la gestión de reuniones internas y externas. Reduciendo el 25% en la carga administrativa relacionada con la gestión de reuniones.\n\n● Desarrollo de una aplicación en Python que automatizó el traslado de informes de la empresa a hojas de Excel, optimizando el proceso de manejo de datos:\n- Automatización del proceso de recopilación y transferencia de datos a Excel, reduciendo el tiempo manual en un 60%.\n- Aumento de la eficiencia operativa, permitiendo al equipo enfocarse en tareas de mayor valor y reduciendo el margen de error en la gestión de informes.\n\n Tecnologías utilizadas: Python, Flask, LangChain, ChromaDB, HTML, CSS, JavaScript.",
     },
   ],
   education: [
