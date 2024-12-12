@@ -21,7 +21,7 @@ export const DATA = {
     "Styled Components",
     "Bootstrap",
     "API RESTful",
-    "NPM",
+    // "NPM",
     "GitHub",
   ],
   navbar: [
@@ -62,7 +62,7 @@ export const DATA = {
       logoUrl: "https://caribeensena.org/media/ea95eb4d8a32e4352ed2403a067facf8.png",
       start: "Marzo 2024",
       end: "Actualidad",
-      description: "● Desarrollo de la plataforma e-learning 'Caribe Enseña Learning', que ofrece cursos, talleres y diplomados.\n\n● Participación en la creación de una aplicación web progresiva (PWA) llamada ‘Proyecto Genius’. Aumento del acceso educativo en áreas con baja conectividad, gracias a la funcionalidad offline de la PWA.\n\n● Implementé y optimicé la experiencia de usuario (UX) y la interfaz de usuario (UI) de 'Proyecto Genius' y ‘Caribe Enseña Learning’. Reduciendo el tiempo de carga de la plataforma, lo que mejoró la retención de usuarios.\n\nTecnologías utilizadas en ambos proyectos: Next.js, React, Bootstrap, CSS, HTML, JavaScript."
+      description: "● Desarrollo de la plataforma e-learning 'Caribe Enseña Learning', que ofrece cursos, talleres y diplomados.\n\n● Participación en la creación de una aplicación web progresiva (PWA) llamada ‘Proyecto Genius’. Aumento del acceso educativo en áreas con baja conectividad, gracias a la funcionalidad offline de la PWA.\n\n● Implementé y optimicé la experiencia de usuario (UX) y la interfaz de usuario (UI) de 'Proyecto Genius' y ‘Caribe Enseña Learning’. Reduciendo el tiempo de carga de la plataforma, lo que mejoró la retención de usuarios."
     },
     {
       company: "Laboratorio Consultar SRL",
@@ -74,7 +74,7 @@ export const DATA = {
       start: "Mayo 2023",
       end: "Julio 2023",
       description:
-        "● Desarrollo del primer chatbot con IA de la empresa, reduciendo el tiempo de respuesta a las consultas de los clientes y automatizando las interacciones con el soporte.\n\n● Implementación de un sistema de agenda automatizado para la gestión de reuniones. Reduciendo la carga administrativa relacionada con la gestión de reuniones.\n\n● Desarrollo de una aplicación en Python que automatizó el traslado de informes de la empresa a hojas de Excel, optimizando el proceso de manejo de datos:\n- Automatización del proceso de recopilación y transferencia de datos a Excel, reduciendo el tiempo manual.\n- Aumento de la eficiencia operativa, permitiendo al equipo enfocarse en tareas de mayor valor y reduciendo el margen de error en la gestión de informes.\n\n Tecnologías utilizadas: Python, Flask, LangChain, ChromaDB, HTML, CSS, JavaScript.",
+        "● Desarrollo del primer chatbot con IA de la empresa, reduciendo el tiempo de respuesta a las consultas de los clientes y automatizando las interacciones con el soporte.\n\n● Implementación de un sistema de agenda automatizado para la gestión de reuniones. Reduciendo la carga administrativa relacionada con la gestión de reuniones.\n\n● Desarrollo de una aplicación que automatizó el traslado de facturas a hojas de Excel, reduciendo y evitando errores manuales en el proceso de recopilación y transferencia de datos. Aumentando la eficiencia operativa, permitiendo al equipo enfocarse en tareas de mayor valor.",
     },
   ],
   education: [
