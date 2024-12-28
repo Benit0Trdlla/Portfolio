@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Desarrollador Frontend enfocado en crear interfaces modernas, eficientes y de alto rendimiento, utilizando mi conocimiento y mejores prácticas.",
   summary:
-    "Con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Bootstrap y Next.js. Competente en el desarrollo y consumo de APIs RESTful. Experiencia en el uso de Git para el control de versiones. Buscando siempre soluciones eficientes y escalables, sin temor a adaptarse a nuevos entornos o herramientas.",
+    "Con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Bootstrap y Next.js. Conocimientos en el desarrollo y consumo de APIs REST. Experiencia en el uso de GIT para el control de versiones. Buscando siempre soluciones eficientes y escalables, sin temor a adaptarse a nuevos entornos o herramientas.",
   avatarUrl: "/me.png",
   skills: [
     "React",
