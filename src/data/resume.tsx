@@ -10,19 +10,20 @@ export const DATA = {
   description:
     "Desarrollador Frontend enfocado en crear interfaces modernas, eficientes y de alto rendimiento, utilizando mi conocimiento y mejores prácticas.",
   summary:
-    "Con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Bootstrap y Next.js. Conocimientos en el desarrollo y consumo de APIs REST. Experiencia en el uso de GIT para el control de versiones. Buscando siempre soluciones eficientes y escalables, sin temor a adaptarse a nuevos entornos o herramientas.",
+    "Técnico Informático y Desarrollador Frontend con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Componentes reutilizables, Bootstrap y Next.js. Conocimientos sólidos en el desarrollo e integración de APIs RESTful, y utilizo Git para el control de versiones. Siempre abierto a aprender y adaptarme a nuevas tecnologías y entornos de desarrollo.",
   avatarUrl: "/me.png",
   skills: [
     "React",
-    "Next.js",
+    "Next.js (App Router, Server/Client Components, Dynamic Routing)",
     "JavaScript",
-    "HTML",
-    "CSS",
+    "HTML5",
+    "CSS3",
     "Styled Components",
+    "Componentes reutilizables",
     "Bootstrap",
     "API RESTful",
     // "NPM",
-    "GitHub",
+    "Git",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -59,7 +60,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Desarrollador Frontend",
-      logoUrl: "https://caribeensena.org/media/ea95eb4d8a32e4352ed2403a067facf8.png",
+      logoUrl: "https://caribeensena.org/_assets/media/ea95eb4d8a32e4352ed2403a067facf8.png",
       start: "Marzo 2024",
       end: "Actualidad",
       description: "● Desarrollo de la plataforma e-learning 'Caribe Enseña Learning', que ofrece cursos, talleres y diplomados.\n\n● Participación en la creación de una aplicación web progresiva (PWA) llamada ‘Proyecto Genius’. Aumento del acceso educativo en áreas con baja conectividad, gracias a la funcionalidad offline de la PWA.\n\n● Implementé y optimicé la experiencia de usuario (UX) y la interfaz de usuario (UI) de 'Proyecto Genius' y ‘Caribe Enseña Learning’. Reduciendo el tiempo de carga de la plataforma, lo que mejoró la retención de usuarios."
@@ -82,7 +83,7 @@ export const DATA = {
       school: "Colegio Salesiano San José N° 2043",
       href: "https://sanjoserosario.com.ar/",
       degree: "Técnico en Informática Profesional y Personal",
-      logoUrl: "https://media.licdn.com/dms/image/v2/D4D0BAQFG9YmG5wbIjg/company-logo_200_200/company-logo_200_200/0/1703599931458/colegio_salesiano_san_jos_rosario_logo?e=1732147200&v=beta&t=twxUEwvZI6Kc5hBCP5sD91McZBCw2fBNTb7FqGMNZ8A",
+      logoUrl: "https://sanjoserosario.com.ar/wp-content/uploads/2025/02/cropped-favicon-180x180.png",
       start: "2018",
       end: "2023",
     }
