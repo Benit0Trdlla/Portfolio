@@ -2,9 +2,10 @@
 
 ¡Bienvenidos a mi portfolio! 
 
-Un reflejo de mi pasión por el desarrollo web y mi compromiso con la creación de interfaces de usuario atractivas, eficientes y accesibles. 
-Aquí encontrarás una selección de proyectos donde aplico tecnologías como React, Next.js, JavaScript, y Bootstrap. 
-Cada proyecto está orientado a la resolución de problemas específicos y enfocados en la performance y escalabilidad, dos aspectos claves de mi trabajo.
+Espacio que refleja mi pasión por el desarrollo web, especialmente en el área Frontend, y mi compromiso con la creación de interfaces atractivas, eficientes y accesibles.
+Aquí encontrarás una selección de proyectos donde aplico tecnologías como React, Next.js, JavaScript y Bootstrap, junto con una visión general de mi trayectoria como desarrollador.
+
+👉 Explorá mi perfil de GitHub para ver el código, seguir actualizaciones y descubrir nuevos proyectos que tengo en desarrollo.
 
 ## Ver el resultado
 
