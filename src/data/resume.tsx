@@ -90,6 +90,31 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Recetario Web (Gestión de Recetas)",
+      href: "",
+      dates: "Enero 2025 - Enero 2025",
+      active: true,
+      description:
+        "Aplicación web diseñada para gestionar y compartir recetas de cocina de forma simple y accesible. Permite a los usuarios crear, consultar, editar, eliminar y compartir recetas desde una interfaz moderna, responsive e intuitiva. La plataforma está pensada para organizar fácilmente recetas personales y fomentar el intercambio culinario entre usuarios.",
+      technologies: [
+        "Next.js",
+        "Next Auth",
+        "React",
+        "React Hook Form",
+        "Prisma",
+        "MySQL",
+        "Bootstrap",
+        "Cloudinary",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/Benit0Trdlla/Recetas",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+    },
+    {
       title: "Asistente Educativo - Vercel AI SDK",
       href: "",
       dates: "Septiembre 2024 - Octubre 2024",
