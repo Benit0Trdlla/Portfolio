@@ -8,7 +8,7 @@ export const DATA = {
   location: "Rosario, SF",
   locationLink: "https://www.google.com/maps/place/rosario",
   description:
-    "Desarrollador Frontend enfocado en crear interfaces modernas, eficientes y de alto rendimiento, utilizando mi conocimiento y mejores prácticas.",
+    "Desarrollador Frontend & Web enfocado en crear interfaces modernas, eficientes y de alto rendimiento, utilizando mi conocimiento y mejores prácticas.",
   summary:
     "Técnico Informático y Desarrollador Frontend con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Componentes reutilizables, Bootstrap y Next.js. Conocimientos sólidos en el desarrollo e integración de APIs REST, y utilizo Git para el control de versiones. Siempre abierto a aprender y adaptarme a nuevas tecnologías y entornos de desarrollo.",
   avatarUrl: "/me.png",
