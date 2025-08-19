@@ -21,6 +21,7 @@ export const DATA = {
     "Styled Components",
     "Componentes reutilizables",
     "Bootstrap",
+    "Tailwind CSS",
     "API REST",
     // "NPM",
     "Git",
@@ -75,7 +76,7 @@ export const DATA = {
       start: "Mayo 2023",
       end: "Julio 2023",
       description:
-        "● Desarrollo del primer chatbot con IA de la empresa, utilizando la API de OpenAI y documentos técnicos propios. Buscando que la IA del chatbot tenga conocimiento propio de la empresa y automatizando respuestas a consultas frecuentes y reduciendo significativamente los tiempos de atención al cliente.\n\n● Implementación de un sistema de agenda automatizado, incluido en el propio chatbot, para la gestión de reuniones. Disminuyendo la carga administrativa.\n\n● Desarrollo de una aplicación para automatizar la exportación de facturas a Excel, eliminando errores manuales y aumentando la eficiencia operativa, lo que permitió al equipo enfocarse en tareas de mayor valor.",
+        "● Desarrollo del primer chatbot con IA de la empresa, utilizando la API de OpenAI y documentos técnicos propios. Buscando que la IA del chatbot tenga conocimiento propio de la empresa y automatizando respuestas a consultas frecuentes, reduciendo significativamente los tiempos de atención al cliente.\n\n● Implementación de un sistema de agenda automatizado, incluido en el propio chatbot, para la gestión de reuniones. Disminuyendo la carga administrativa.\n\n● Desarrollo de una aplicación para automatizar la exportación de facturas a Excel, eliminando errores manuales y aumentando la eficiencia operativa, lo que permitió al equipo enfocarse en tareas de mayor valor.",
     },
   ],
   education: [
