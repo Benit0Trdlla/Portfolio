@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Desarrollador Frontend & Web enfocado en crear interfaces modernas, eficientes y de alto rendimiento, utilizando mi conocimiento y mejores prácticas.",
   summary:
-    "Técnico Informático y Desarrollador Frontend con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Componentes reutilizables, Bootstrap y Next.js. Conocimientos sólidos en el desarrollo e integración de APIs REST, y utilizo Git para el control de versiones. Siempre abierto a aprender y adaptarme a nuevas tecnologías y entornos de desarrollo.",
+    "Técnico Informático y Desarrollador Frontend con experiencia en HTML5, CSS3, JavaScript, React, Styled Components, Tailwind CSS, Bootstrap y Next.js. Conocimientos sólidos en el desarrollo e integración de APIs REST, y utilizo Git para el control de versiones. Siempre abierto a aprender y adaptarme a nuevas tecnologías y entornos de desarrollo.",
   avatarUrl: "/me.png",
   skills: [
     "React",
@@ -19,7 +19,6 @@ export const DATA = {
     "HTML5",
     "CSS3",
     "Styled Components",
-    "Componentes reutilizables",
     "Bootstrap",
     "Tailwind CSS",
     "API REST",
