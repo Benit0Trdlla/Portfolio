@@ -103,7 +103,8 @@ export const DATA = {
         "Radix UI",
         "Lucide React",
         "Motion",
-        "AI",
+        "Sonner",
+        "nuqs",
       ],
       links: [
         {
@@ -148,9 +149,10 @@ export const DATA = {
       technologies: [
         "Next.js",
         "React",
-        "CSS",
+        "Tailwind",
         "Ui Verse",
-        "Vercel",
+        "Motion",
+        "Sonner",
       ],
       links: [
         {
