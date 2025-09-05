@@ -63,7 +63,7 @@ export const DATA = {
       logoUrl: "https://caribeensena.org/_assets/media/ea95eb4d8a32e4352ed2403a067facf8.png",
       start: "Marzo 2024",
       end: "Actualidad",
-      description: "● Desarrollo de la plataforma e-learning 'Caribe Enseña Learning', orientada a ofrecer cursos, talleres y diplomados con una navegación clara y accesible.\n\n● Participación en la creación de una aplicación web progresiva (PWA) llamada ‘Proyecto Genius’. Diseñada para ampliar el acceso educativo en zonas con baja conectividad, gracias a su funcionalidad offline.\n\n● Implementé y optimicé la UX/UI de 'Proyecto Genius' y ‘Caribe Enseña Learning’. Reduciendo el tiempo de carga de las plataformas, lo que mejoró la retención de usuarios."
+      description: "● Lideré el desarrollo técnico de la plataforma e-learning 'Caribe Enseña Learning', asegurando una navegación accesible y responsive en múltiples dispositivos.\n\n● Construí la aplicación web progresiva 'Proyecto Genius', con funcionalidad offline para ampliar el acceso educativo en zonas con baja conectividad.\n\n● Implementé y optimicé la UX/UI de las plataformas, reduciendo significativamente los tiempos de carga y aumentando la retención de usuarios. \n\n● Gestioné entregas en plazos ajustados, coordinando mejoras y correcciones de forma ágil, brindando soporte técnico constante."
     },
     {
       company: "Laboratorio Consultar SRL",
@@ -75,7 +75,7 @@ export const DATA = {
       start: "Mayo 2023",
       end: "Julio 2023",
       description:
-        "● Desarrollo del primer chatbot con IA de la empresa, utilizando la API de OpenAI y documentos técnicos propios. Buscando que la IA del chatbot tenga conocimiento propio de la empresa y automatizando respuestas a consultas frecuentes, reduciendo significativamente los tiempos de atención al cliente.\n\n● Implementación de un sistema de agenda automatizado, incluido en el propio chatbot, para la gestión de reuniones. Disminuyendo la carga administrativa.\n\n● Desarrollo de una aplicación para automatizar la exportación de facturas a Excel, eliminando errores manuales y aumentando la eficiencia operativa, lo que permitió al equipo enfocarse en tareas de mayor valor.",
+        "● Desarrollé el primer chatbot con inteligencia artificial de la empresa, integrando la API de OpenAI con documentación interna para dotarlo de conocimiento personalizado. Esta solución permitió automatizar respuestas a consultas frecuentes y reducir los tiempos de atención al cliente.\n\n● Implementé un sistema de agenda automatizado dentro del chatbot, disminuyendo la carga administrativa y optimizando la gestión de reuniones.\n\n● Creé una aplicación para la exportación automática de facturas a Excel, eliminando errores manuales y aumentando la eficiencia operativa del equipo.",
     },
   ],
   education: [
