@@ -89,7 +89,35 @@ export const DATA = {
     }
   ],
   projects: [
+    {
+      title: "Seat Map Builder",
+      href: "",
+      dates: "Septiembre 2025 - Septiembre 2025",
+      active: true,
+      description:
+        "Editor visual para dibujar un mapa de asientos, con creación y edición de filas y asientos, etiquetado rápido, y opciones de exportación e importación en formato JSON.",
+      technologies: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Radix UI",
+        "Lucide React",
+      ],
+      links: [
         {
+          type: "Website",
+          href: "https://seat-map-builder-mu.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/Benit0Trdlla/SeatMapBuilder",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+    },
+    {
       title: "Know Your Regex",
       href: "",
       dates: "Julio 2025 - En proceso",
@@ -107,6 +135,11 @@ export const DATA = {
         "nuqs",
       ],
       links: [
+        {
+          type: "Website",
+          href: "https://know-your-regex.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
         {
           type: "Source",
           href: "https://github.com/Benit0Trdlla/Know-Your-Regex",
@@ -214,33 +247,33 @@ export const DATA = {
     //     },
     //   ],
     // },
-    {
-      title: "Clon Web AFIP",
-      href: "https://clon-afip.vercel.app/",
-      dates: "Agosto 2024 - Agosto 2024",
-      active: true,
-      description:
-        "Este proyecto consistió en clonar el sitio web de la AFIP, la institución tributaria de Argentina, con el objetivo de practicar y mejorar mis habilidades en React, React Router y Bootstrap. Me aseguré de que tanto el diseño como las funcionalidades fueran lo más fieles posibles al sitio original.",
-      technologies: [
-        "React",
-        "React Router",
-        "CSS",
-        "Bootstrap",
-        "Vite",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://clon-afip.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Benit0Trdlla/Clon-AFIP",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-    },
+    // {
+    //   title: "Clon Web AFIP",
+    //   href: "https://clon-afip.vercel.app/",
+    //   dates: "Agosto 2024 - Agosto 2024",
+    //   active: true,
+    //   description:
+    //     "Este proyecto consistió en clonar el sitio web de la AFIP, la institución tributaria de Argentina, con el objetivo de practicar y mejorar mis habilidades en React, React Router y Bootstrap. Me aseguré de que tanto el diseño como las funcionalidades fueran lo más fieles posibles al sitio original.",
+    //   technologies: [
+    //     "React",
+    //     "React Router",
+    //     "CSS",
+    //     "Bootstrap",
+    //     "Vite",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://clon-afip.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Benit0Trdlla/Clon-AFIP",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
+    // },
     // {
     //   title: "Perfil de Usuario",
     //   href: "https://todo-teal-two.vercel.app/",
@@ -267,35 +300,35 @@ export const DATA = {
     //     },
     //   ],
     // },
-    {
-      title: "ToDo",
-      href: "https://todo-teal-two.vercel.app/",
-      dates: "Febrero 2024 - Febrero 2024",
-      active: true,
-      description:
-        "Aplicación para organizar, priorizar y avanzar en tus tareas con claridad. Diseñada para gestionar y almacenar tareas pendientes, esta herramienta te ayuda a estructurar tu trabajo, establecer objetivos claros y avanzar de forma eficiente en la ejecución de proyectos.",
-      technologies: [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "React",
-        "Vite",
-        "Vercel",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://todo-teal-two.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/Benit0Trdlla/Todo",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
+    // {
+    //   title: "ToDo",
+    //   href: "https://todo-teal-two.vercel.app/",
+    //   dates: "Febrero 2024 - Febrero 2024",
+    //   active: true,
+    //   description:
+    //     "Aplicación para organizar, priorizar y avanzar en tus tareas con claridad. Diseñada para gestionar y almacenar tareas pendientes, esta herramienta te ayuda a estructurar tu trabajo, establecer objetivos claros y avanzar de forma eficiente en la ejecución de proyectos.",
+    //   technologies: [
+    //     "HTML",
+    //     "CSS",
+    //     "Javascript",
+    //     "React",
+    //     "Vite",
+    //     "Vercel",
+    //   ],
+    //   links: [
+    //     {
+    //       type: "Website",
+    //       href: "https://todo-teal-two.vercel.app/",
+    //       icon: <Icons.globe className="size-3" />,
+    //     },
+    //     {
+    //       type: "Source",
+    //       href: "https://github.com/Benit0Trdlla/Todo",
+    //       icon: <Icons.github className="size-3" />,
+    //     },
+    //   ],
 
-    },
+    // },
     {
       title: "WeatherApp",
       href: "#",
