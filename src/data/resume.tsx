@@ -121,7 +121,7 @@ export const DATA = {
     {
       title: "Know Your Regex",
       href: "",
-      dates: "Julio 2025 - En proceso",
+      dates: "Julio 2025 - Octubre 2025",
       active: true,
       description:
         "¿Necesitas utilizar una regex y no sabes cómo escribirla? ¿O tienes una expresión regular (regex) y quieres saber qué es lo que hace? ¡No te preocupes! Con la ayuda de Know Your Regex tus dudas se resolverán. La herramienta te muestra en detalle la regex que usaste o utilizarás y te ayudará a entender su funcionamiento. ¡Conocé tu regex ahora!",
