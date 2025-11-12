@@ -83,13 +83,41 @@ export const DATA = {
     {
       school: "Colegio Salesiano San José N° 2043",
       href: "https://sanjoserosario.com.ar/",
-      degree: "Técnico en Informática Profesional y Personal",
+      degree: "Técnico Informático",
       logoUrl: "https://sanjoserosario.com.ar/wp-content/uploads/2025/02/cropped-favicon-180x180.png",
       start: "2018",
       end: "2023",
     }
   ],
   projects: [
+        {
+      title: "CutMach",
+      href: "",
+      dates: "Octubre 2025 - Actualidad",
+      active: true,
+      description:
+        "CutMatch tu ayuda a encontrar el mejor corte de pelo según la forma de tu cara.",
+      technologies: [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind",
+        "Radix UI",
+        "Lucide React",
+      ],
+      links: [
+        // {
+        //   type: "Website",
+        //   href: "https://seat-map-builder-mu.vercel.app/",
+        //   icon: <Icons.globe className="size-3" />,
+        // },
+        {
+          type: "Source",
+          href: "https://github.com/Benit0Trdlla/CutMatch",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+    },
     {
       title: "Seat Map Builder",
       href: "",
@@ -126,6 +154,7 @@ export const DATA = {
       description:
         "¿Necesitas utilizar una regex y no sabes cómo escribirla? ¿O tienes una expresión regular (regex) y quieres saber qué es lo que hace? ¡No te preocupes! Con la ayuda de Know Your Regex tus dudas se resolverán. La herramienta te muestra en detalle la regex que usaste o utilizarás y te ayudará a entender su funcionamiento. ¡Conocé tu regex ahora!",
       technologies: [
+        "Google Gemini API",
         "Next.js",
         "React",
         "Tailwind",
@@ -181,6 +210,7 @@ export const DATA = {
       description:
         "Asistente educativo impulsado por IA, creado para acompañar a estudiantes en su aprendizaje diario. Responde preguntas, explica conceptos de forma clara y brinda ejemplos adaptados a cada necesidad. Además, permite subir imágenes para analizar y comprender mejor temas complejos.",
       technologies: [
+        "Google Gemini API",
         "Next.js",
         "React",
         "TypeScript",
