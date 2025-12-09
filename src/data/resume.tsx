@@ -104,6 +104,7 @@ export const DATA = {
         "Tailwind",
         "Radix UI",
         "Lucide React",
+        "Sonner",
       ],
       links: [
         // {
