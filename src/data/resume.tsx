@@ -35,21 +35,18 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/Benit0Trdlla",
         icon: Icons.github,
-
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/benitotridelladolce/",
         icon: Icons.linkedin,
-
         navbar: true,
       },
-      email: {
+      Email: {
         name: "Send Email",
         url: "benitotridelladolce@gmail.com",
         icon: Icons.email,
-
         navbar: true,
       },
     },
@@ -61,7 +58,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Desarrollador Frontend",
-      logoUrl: "https://caribeensena.org/_assets/media/ea95eb4d8a32e4352ed2403a067facf8.png",
+      logoUrl: "https://caribeensena.org/_assets/media/1087e342370f353b8cf2667b9b27fc43.png",
       start: "Marzo 2024",
       end: "Actualidad",
       description: "● Lideré el desarrollo técnico de la plataforma e-learning 'Caribe Enseña Learning', asegurando una navegación accesible y responsive en múltiples dispositivos.\n\n● Construí la aplicación web progresiva 'Proyecto Genius', con funcionalidad offline para ampliar el acceso educativo en zonas con baja conectividad.\n\n● Implementé y optimicé la UX/UI de las plataformas, reduciendo significativamente los tiempos de carga y aumentando la retención de usuarios. \n\n● Gestioné entregas en plazos ajustados, coordinando mejoras y correcciones de forma ágil, brindando soporte técnico constante."
