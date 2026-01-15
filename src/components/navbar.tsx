@@ -10,6 +10,7 @@ import {
 import { DATA } from "@/data/resume";
 import { cn } from "@/lib/utils";
 import Link from "next/link";
+import { Download } from "lucide-react";
 
 export default function Navbar() {
   return (
@@ -60,6 +61,25 @@ export default function Navbar() {
               </Tooltip>
             </DockIcon>
           ))}
+        <DockIcon>
+          <Tooltip>
+            <TooltipTrigger asChild>
+              <a
+                href="/CV/DesarrolladorFrontend-BenitoTridellaDolce.pdf"
+                download
+                className={cn(
+                  buttonVariants({ variant: "ghost", size: "icon" }),
+                  "size-12"
+                )}
+              >
+                <Download className="size-4" />
+              </a>
+            </TooltipTrigger>
+            <TooltipContent>
+              <p>Descargar CV</p>
+            </TooltipContent>
+          </Tooltip>
+        </DockIcon>
         <Separator orientation="vertical" className="h-full py-2" />
         <DockIcon>
           <Tooltip>
